@@ -1,0 +1,2 @@
+# Predicting-Toyota-Corolla-Prices-A-Multiple-Linear-Regression-Analysis
+This analysis aims to predict Toyota Corolla prices using multiple linear regression based on attributes like age, kilometers driven, fuel type, and horse power. We will perform exploratory data analysis (EDA) to understand the dataset, preprocess the data for modeling, and apply Lasso and Ridge techniques to enhance prediction accuracy.
